@@ -2,7 +2,7 @@
   "dialogConfig": {
     "enabled": true,
     "appVersionCode": "17.0.2.2",
-    "mandatory": true,
+    "mandatory": false,
     "update_url": "https://www.mediafire.com/file/1koiyor3rhy1rxp/Boating.11.5.dccPro.apk/file",
     "title": "Update Available!",
     "message": "Please down grade to 11.5. Night mode enable. ",
